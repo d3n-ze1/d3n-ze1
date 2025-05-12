@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3D graphics, Web Design, Game development
 - 🌱 I’m currently learning Python Scripting, C# and Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... (please don't)
+- 📫 How to reach me ... ([Please do](https://www.linkedin.com/in/azonwukadiliora/)n't)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Your brain named itself
 
