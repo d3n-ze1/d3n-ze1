@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python Scripting, C# and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ([Kindly connect here](https://www.linkedin.com/in/azonwukadiliora/))
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Your brain named itself
 
 <!---
